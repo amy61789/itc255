@@ -29,13 +29,6 @@ public class User {
 		this.email = email;
 	}
 
-	public void grantReport() {
-
-	}
-
-	public void viewDonationReport() {
-
-	}
 
 	public void viewDonationTotals() {
 
